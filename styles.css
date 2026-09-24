@@ -84,6 +84,8 @@ address{font-style:normal}
 .creds li{border-bottom:1px solid #e1e3dc;display:grid;font-size:13px;gap:12px;grid-template-columns:116px 1fr;padding:9px 0}
 .creds strong{color:var(--coral-ink);font-size:11px;letter-spacing:.08em;padding-top:2px;text-transform:uppercase}
 .creds span{color:var(--ink)}
+.doctor-card.is-founder{border-top:3px solid var(--coral)}
+.founder-tag{background:var(--coral);color:#fff;font-size:10px;font-weight:700;left:0;letter-spacing:.12em;padding:7px 13px;position:absolute;text-transform:uppercase;top:16px;z-index:1}
 .doctor-card h3{font-family:"Playfair Display",serif;font-size:26px;font-weight:500;margin:14px 0 2px}
 .doctor-role{color:var(--deep);font-size:13px;font-weight:600;margin:0 0 12px}
 .doctor-bio{color:var(--muted);font-size:14px;margin:0 0 20px}

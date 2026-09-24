@@ -6,8 +6,9 @@
 
 - Name: Kathmandu Mental Health Clinic and Psychiatry Counseling Center (also: Kathmandu Mental Health Clinic)
 - Specialty: Psychiatry, psychotherapy, counselling
-- Locations: Dev Plaza, People's Plaza, New Road, Kathmandu 44600 · Kalanki-14, Near Malpot Road, near Kalanki Bhatbhateni Supermarket, Kathmandu 44600 (roadside parking nearby)
-- Hours: Kalanki: Sunday to Friday 8:00 AM-10:00 PM, Saturday 10:00 AM-4:00 PM. People's Plaza: Saturday 5:00 AM-11:00 PM (call to confirm other days).
+- Locations: Dev Plaza, People's Plaza, New Road, Kathmandu 44600 · Kalanki Bhatbhateni, Kathmandu
+- Founder: Dr. Kushal Kharel, Consultant Psychiatrist
+- Hours: Saturday 5:00 AM-11:00 PM (call to confirm other days).
 - Phone / WhatsApp booking: +9779714556408
 - Online: video consultation across Nepal and abroad (Nepali or English)
 - Referral needed: No
@@ -15,9 +16,9 @@
 
 ## Doctors
 
+- [Dr. Kushal Kharel](https://kathmandumentalhealth.com.np/#dr-kushal-kharel): Founder & Consultant Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Jalalabad Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 27199 · Nepal Medical Council
 - [Dr. Sunita Lama](https://kathmandumentalhealth.com.np/#dr-sunita-lama): Consultant Psychiatrist; MD Neuropsychiatry: Gandaki Medical College; MBBS: Jalalabad Medical College; CBT: Certified in cognitive behavioural therapy; NMC No.: 26944 · Certified by the Nepal Medical Council
-- [Dr. Bhishma K.C.](https://kathmandumentalhealth.com.np/#dr-bhishma-kc): Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Nepal Medical College; NMC No.: 21985 · Nepal Medical Council
-- [Dr. Kushal Kharel](https://kathmandumentalhealth.com.np/#dr-kushal-kharel): Consultant Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Jalalabad Medical College; NMC No.: 27199 · Nepal Medical Council
+- [Dr. Bhishma K.C.](https://kathmandumentalhealth.com.np/#dr-bhishma-kc): Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Nepal Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 21985 · Nepal Medical Council
 
 ## Services
 
@@ -62,12 +63,13 @@
 - [How long are appointments?](https://kathmandumentalhealth.com.np/#faq-appointment-length)
 - [Will my appointment feel rushed?](https://kathmandumentalhealth.com.np/#faq-appointment-not-rushed)
 - [Do you accept insurance, or do I pay directly?](https://kathmandumentalhealth.com.np/#faq-insurance-or-out-of-pocket)
+- [Who founded Kathmandu Mental Health Clinic?](https://kathmandumentalhealth.com.np/#faq-who-founded-kathmandu-mental-health-clinic)
 - [Who are the doctors at Kathmandu Mental Health Clinic?](https://kathmandumentalhealth.com.np/#faq-who-are-the-doctors)
-- [Who is the best psychiatrist in Kathmandu?](https://kathmandumentalhealth.com.np/#faq-best-psychiatrist-in-kathmandu)
-- [Who is a good psychiatrist in Kathmandu for anxiety or depression?](https://kathmandumentalhealth.com.np/#faq-psychiatrist-for-anxiety-or-depression)
 - [What are your doctors' Nepal Medical Council registration numbers?](https://kathmandumentalhealth.com.np/#faq-nmc-registration-numbers)
-- [What is neuropsychiatry, and do your doctors have this training?](https://kathmandumentalhealth.com.np/#faq-what-is-neuropsychiatry)
+- [Who is the best psychiatrist in Kathmandu?](https://kathmandumentalhealth.com.np/#faq-best-psychiatrist-in-kathmandu)
 - [Who is Dr. Kushal Kharel, and what is Dr. Kharel's background?](https://kathmandumentalhealth.com.np/#faq-dr-kushal-kharel-background)
+- [Who is a good psychiatrist in Kathmandu for anxiety or depression?](https://kathmandumentalhealth.com.np/#faq-psychiatrist-for-anxiety-or-depression)
+- [What is neuropsychiatry, and do your doctors have this training?](https://kathmandumentalhealth.com.np/#faq-what-is-neuropsychiatry)
 - [What does a psychiatrist do in Nepal?](https://kathmandumentalhealth.com.np/#faq-what-does-a-psychiatrist-do)
 - [Are your doctors psychiatrists or general physicians?](https://kathmandumentalhealth.com.np/#faq-psychiatrist-or-general-physician)
 - [Can I ask to see a female or male doctor or counsellor?](https://kathmandumentalhealth.com.np/#faq-doctor-gender-preference)
@@ -84,12 +86,12 @@
 - [My parent is becoming forgetful. Can you help?](https://kathmandumentalhealth.com.np/#faq-memory-problems-elderly)
 - [Do you treat schizophrenia and bipolar disorder?](https://kathmandumentalhealth.com.np/#faq-serious-mental-illness-care)
 - [How can I help a family member who may have a mental health problem?](https://kathmandumentalhealth.com.np/#faq-how-to-help-family-member)
+- [Do you offer psychotherapy and counselling?](https://kathmandumentalhealth.com.np/#faq-psychotherapy-and-counselling)
 - [When should someone see a psychiatrist?](https://kathmandumentalhealth.com.np/#faq-when-to-see-a-psychiatrist)
 - [Can mental illness be treated effectively?](https://kathmandumentalhealth.com.np/#faq-can-mental-illness-be-treated)
 - [Are psychiatric medicines safe?](https://kathmandumentalhealth.com.np/#faq-are-psychiatric-medicines-safe)
 - [Do psychiatric medicines have a lot of side effects?](https://kathmandumentalhealth.com.np/#faq-medicine-side-effects)
 - [Will I have to take medicine for life if I start psychiatric medicines?](https://kathmandumentalhealth.com.np/#faq-lifelong-medication)
-- [Do you offer psychotherapy and counselling?](https://kathmandumentalhealth.com.np/#faq-psychotherapy-and-counselling)
 - [Do you offer online psychiatric consultation within Nepal?](https://kathmandumentalhealth.com.np/#faq-online-consultation-in-nepal)
 - [Can I get a prescription after an online consultation?](https://kathmandumentalhealth.com.np/#faq-online-prescriptions)
 - [When should I come in person instead of consulting online?](https://kathmandumentalhealth.com.np/#faq-online-or-in-person)
