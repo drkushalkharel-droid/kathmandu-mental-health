@@ -180,6 +180,11 @@
           "@id": "https://kathmandumentalhealth.com.np/#clinic-kalanki"
         }
       ],
+      "employee": [
+        {
+          "@id": "https://kathmandumentalhealth.com.np/#dr-sunita-lama"
+        }
+      ],
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
         "name": "Psychiatry and mental health services",
@@ -374,6 +379,67 @@
       }
     },
     {
+      "@type": "Person",
+      "@id": "https://kathmandumentalhealth.com.np/#dr-sunita-lama",
+      "name": "Dr. Sunita Lama",
+      "honorificPrefix": "Dr.",
+      "jobTitle": "Consultant Psychiatrist",
+      "image": "https://kathmandumentalhealth.com.np/images/dr-sunita-lama.jpg",
+      "url": "https://kathmandumentalhealth.com.np/#dr-sunita-lama",
+      "description": "Dr. Sunita Lama is a consultant psychiatrist certified by the Nepal Medical Council, and is also certified in cognitive behavioural therapy (CBT). Dr. Lama brings together medical training in psychiatry and structured CBT skills, so care can include talk therapy, medicine, or both, depending on what helps you.",
+      "worksFor": {
+        "@id": "https://kathmandumentalhealth.com.np/#clinic"
+      },
+      "knowsAbout": [
+        "Psychiatry",
+        "Cognitive behavioural therapy (CBT)"
+      ],
+      "alumniOf": [
+        {
+          "@type": "EducationalOrganization",
+          "name": "Jalalabad Medical College"
+        },
+        {
+          "@type": "EducationalOrganization",
+          "name": "Gandaki Medical College"
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "MBBS",
+          "credentialCategory": "degree",
+          "recognizedBy": {
+            "@type": "EducationalOrganization",
+            "name": "Jalalabad Medical College"
+          }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "MD Psychiatry",
+          "credentialCategory": "degree",
+          "recognizedBy": {
+            "@type": "EducationalOrganization",
+            "name": "Gandaki Medical College"
+          }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Certified in cognitive behavioural therapy (CBT)",
+          "credentialCategory": "certification"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Nepal Medical Council certification",
+          "credentialCategory": "license",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "Nepal Medical Council"
+          }
+        }
+      ]
+    },
+    {
       "@type": "FAQPage",
       "@id": "https://kathmandumentalhealth.com.np/#faq",
       "url": "https://kathmandumentalhealth.com.np/#faq",
@@ -393,6 +459,14 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "We have two locations in Kathmandu: Dev Plaza, People's Plaza, New Road (नयाँ सडक), and Kalanki Bhatbhateni. Call 9714556408 to confirm which location suits you and which doctor is available. You can also open People's Plaza in Google Maps."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who are the doctors at Kathmandu Mental Health Clinic?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dr. Sunita Lama, a consultant psychiatrist certified by the Nepal Medical Council and certified in cognitive behavioural therapy (CBT), sees patients at the clinic. Dr. Lama completed an MBBS at Jalalabad Medical College and an MD in Psychiatry at Gandaki Medical College. You can read more in the Our doctors section."
           }
         },
         {
@@ -1012,18 +1086,18 @@
           <p>Our psychiatrists and counsellors work together, so your care stays joined up. Meet the doctors you may see at the clinic.</p>
         </div>
         <div class="doctor-grid">
-          <!-- TODO DOCTOR 1: replace name, role, bio, NMC registration number. Then add a Person node to the JSON-LD in <head>. -->
-          <article class="doctor-card reveal" data-doctor="1">
-            <div class="doctor-photo" aria-hidden="true"><span class="doc-sun"></span><span class="doc-arch"></span><span class="doc-initials">Dr.</span></div>
+          <article class="doctor-card reveal" data-doctor="1" id="dr-sunita-lama">
+            <div class="doctor-photo"><img src="images/dr-sunita-lama.jpg" alt="Portrait of Dr. Sunita Lama, consultant psychiatrist" width="900" height="900" loading="lazy" decoding="async" /></div>
             <div class="doctor-body">
-              <span class="soon">Details coming soon</span>
-              <h3>Doctor name</h3>
-              <p class="doctor-role">Specialty and qualifications</p>
-              <p class="doctor-bio">A short introduction, areas of interest and Nepal Medical Council registration number will appear here.</p>
-              <a class="text-link dark-link" href="#contact">Book with this doctor <span aria-hidden="true">↗</span></a>
+              <span class="badge">NMC certified</span>
+              <h3>Dr. Sunita Lama</h3>
+              <p class="doctor-role">Consultant Psychiatrist</p>
+              <ul class="creds"><li><strong>MD Psychiatry</strong><span>Gandaki Medical College</span></li><li><strong>MBBS</strong><span>Jalalabad Medical College</span></li><li><strong>CBT</strong><span>Certified in cognitive behavioural therapy</span></li><li><strong>NMC</strong><span>Certified by the Nepal Medical Council</span></li></ul>
+              <p class="doctor-bio">Dr. Sunita Lama is a consultant psychiatrist certified by the Nepal Medical Council, and is also certified in cognitive behavioural therapy (CBT). Dr. Lama brings together medical training in psychiatry and structured CBT skills, so care can include talk therapy, medicine, or both, depending on what helps you.</p>
+              <a class="text-link dark-link" href="#contact">Book with Dr. Lama <span aria-hidden="true">↗</span></a>
             </div>
           </article>
-          <!-- TODO DOCTOR 2 -->
+          <!-- TODO DOCTOR 2: replace name, role, bio and photo; then add a Person node to the JSON-LD in <head>. -->
           <article class="doctor-card reveal" data-doctor="2">
             <div class="doctor-photo" aria-hidden="true"><span class="doc-sun"></span><span class="doc-arch"></span><span class="doc-initials">Dr.</span></div>
             <div class="doctor-body">
@@ -1034,7 +1108,7 @@
               <a class="text-link dark-link" href="#contact">Book with this doctor <span aria-hidden="true">↗</span></a>
             </div>
           </article>
-          <!-- TODO DOCTOR 3 -->
+          <!-- TODO DOCTOR 3: replace name, role, bio and photo; then add a Person node to the JSON-LD in <head>. -->
           <article class="doctor-card reveal" data-doctor="3">
             <div class="doctor-photo" aria-hidden="true"><span class="doc-sun"></span><span class="doc-arch"></span><span class="doc-initials">Dr.</span></div>
             <div class="doctor-body">
@@ -1327,6 +1401,10 @@
             <details class="faq-item" id="faq-where-is-the-clinic" data-cat="start">
               <summary><h3 class="faq-q">Where is the clinic located in Kathmandu?</h3></summary>
               <div class="faq-answer"><p>We have two locations in Kathmandu: Dev Plaza, People's Plaza, New Road (नयाँ सडक), and Kalanki Bhatbhateni. Call <a href="tel:+9779714556408">9714556408</a> to confirm which location suits you and which doctor is available. You can also <a href="https://maps.app.goo.gl/vTvMYgTLpbLqXHbT7" target="_blank" rel="noopener">open People's Plaza in Google Maps</a>.</p></div>
+            </details>
+            <details class="faq-item" id="faq-who-are-the-doctors" data-cat="start">
+              <summary><h3 class="faq-q">Who are the doctors at Kathmandu Mental Health Clinic?</h3></summary>
+              <div class="faq-answer"><p>Dr. Sunita Lama, a consultant psychiatrist certified by the Nepal Medical Council and certified in cognitive behavioural therapy (CBT), sees patients at the clinic. Dr. Lama completed an MBBS at Jalalabad Medical College and an MD in Psychiatry at Gandaki Medical College. You can read more in the <a href="#doctors">Our doctors</a> section.</p></div>
             </details>
             <details class="faq-item" id="faq-how-to-book-appointment" data-cat="start">
               <summary><h3 class="faq-q">How do I book an appointment?</h3></summary>

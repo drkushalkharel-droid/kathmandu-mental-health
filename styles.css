@@ -64,7 +64,8 @@ address{font-style:normal}
 .doctors-heading>p{color:var(--muted);font-size:15px;margin:0;max-width:330px}
 .doctor-grid{display:grid;gap:26px;grid-template-columns:repeat(3,1fr);margin-top:60px}
 .doctor-card{background:#fff;border:1px solid #e1e3dc;display:flex;flex-direction:column;padding:14px 14px 30px}
-.doctor-photo{background:var(--sage);height:290px;overflow:hidden;position:relative}
+.doctor-photo{background:var(--sage);height:330px;overflow:hidden;position:relative}
+.doctor-photo img{display:block;height:100%;object-fit:cover;object-position:50% 16%;width:100%}
 .doc-sun{background:#eabf7d;border-radius:50%;height:84px;position:absolute;right:15%;top:11%;width:84px}
 .doc-arch{background:var(--deep);border-radius:150px 150px 0 0;bottom:-1px;height:64%;left:20%;position:absolute;width:60%}
 .doc-initials{bottom:10%;color:#e7c8a2;font-family:"Playfair Display",serif;font-size:38px;font-style:italic;left:0;position:absolute;text-align:center;width:100%}
@@ -78,6 +79,11 @@ address{font-style:normal}
 .doctor-card[data-doctor="3"] .doc-initials{color:#fff1d5}
 .doctor-body{padding:24px 12px 0}
 .soon{background:var(--cream);color:var(--coral-ink);display:inline-block;font-size:10px;font-weight:700;letter-spacing:.1em;padding:5px 10px;text-transform:uppercase}
+.badge{background:var(--deep);color:#fff;display:inline-block;font-size:10px;font-weight:700;letter-spacing:.1em;padding:5px 10px;text-transform:uppercase}
+.creds{border-top:1px solid #e1e3dc;list-style:none;margin:0 0 16px;padding:0}
+.creds li{border-bottom:1px solid #e1e3dc;display:grid;font-size:13px;gap:12px;grid-template-columns:116px 1fr;padding:9px 0}
+.creds strong{color:var(--coral-ink);font-size:11px;letter-spacing:.08em;padding-top:2px;text-transform:uppercase}
+.creds span{color:var(--ink)}
 .doctor-card h3{font-family:"Playfair Display",serif;font-size:26px;font-weight:500;margin:14px 0 2px}
 .doctor-role{color:var(--deep);font-size:13px;font-weight:600;margin:0 0 12px}
 .doctor-bio{color:var(--muted);font-size:14px;margin:0 0 20px}
