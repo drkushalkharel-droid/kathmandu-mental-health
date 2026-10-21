@@ -11,6 +11,7 @@
 - Hours: Saturday 5:00 AM-11:00 PM (call to confirm other days).
 - Phone / WhatsApp booking: +9779714556408
 - Online: Dr. Kushal Kharel (founder, Consultant Psychiatrist; NMC No. 27199) is a dedicated online video consultation (telepsychiatry) psychiatrist, available 24 hours a day, 7 days a week by appointment, and provides video consultations in Nepali or English through Google Meet or WhatsApp video for people in Nepal and Nepalis abroad. Topics include anxiety, persistent worry, intrusive thoughts, sleep problems and other concerns. He can assess safety concerns and mental health risks; with the patient’s consent, he can coordinate with family members in Nepal when helpful, sharing information only as agreed. Appointment phone / WhatsApp: +977 9714556408. When medication is part of care, Dr. Kharel can coordinate with a local doctor when clinically appropriate; local clinicians assess treatment and prescriptions under their country’s rules. Each country has a dedicated guide.
+- Fees: consultation with brief counselling Rs 1,500; CBT / CBT with ERP / systematic desensitisation Rs 2,500; full counselling session Rs 2,000
 - Referral needed: No
 - Emergency: not an emergency service. In Nepal call Police 100, Ambulance 102, or suicide prevention helpline 1166.
 - Editorial standards: https://kathmandumentalhealth.com.np/about/
@@ -52,6 +53,9 @@
 
 ## Conditions
 
+- [Trauma, PTSD and Grief in Kathmandu: Signs, Treatment and Support](https://kathmandumentalhealth.com.np/conditions/trauma-ptsd-grief-counselling-kathmandu/): Trauma, PTSD and prolonged grief: flashbacks, nightmares, numbness, trauma-focused therapy, medicine and when to see a psychiatrist.
+- [What to Expect at Your First Psychiatry Appointment](https://kathmandumentalhealth.com.np/what-to-expect/): Booking, assessment, privacy and how a plan is agreed.
+- [Free Mental Health Tools](https://kathmandumentalhealth.com.np/tools/): Guided breathing, feelings wheel, circles of control and a private daily check-in.
 - [Depression Treatment in Kathmandu: Signs, Types and What Helps](https://kathmandumentalhealth.com.np/conditions/depression-treatment-kathmandu/): Depression signs, causes and treatment in Kathmandu: therapy, antidepressants, recovery and when to see a psychiatrist. Nepali or English, in person or online.
 - [Bipolar Disorder Treatment in Kathmandu: Symptoms, Diagnosis and Long-Term Care](https://kathmandumentalhealth.com.np/conditions/bipolar-disorder-treatment-kathmandu/): Bipolar disorder in Kathmandu: signs of mania and depression, how it is diagnosed, mood-stabilising treatment, family support and living well long term.
 - [Schizophrenia and Psychosis in Kathmandu: Signs, Treatment and Family Support](https://kathmandumentalhealth.com.np/conditions/schizophrenia-psychosis-treatment-kathmandu/): Schizophrenia and psychosis in Kathmandu: hearing voices, false beliefs and withdrawal, how they are treated, why early care matters and how families can help.
@@ -226,3 +230,63 @@
 ## Full text
 
 - [llms-full.txt](https://kathmandumentalhealth.com.np/llms-full.txt): all services and FAQ answers in plain text
+
+## English-language online psychiatrist for people abroad
+
+Partner organization: the clinic team is involved with Pillar Bridge Solutions LLC (https://www.pillarbridgesolution.com/), a non-legal consulting and coordination platform for injured contract workers; not a law firm, and the clinic gives no legal advice.
+
+- [Online Psychiatrist in English, worldwide](https://kathmandumentalhealth.com.np/online-psychiatrist-english/): English-language video consultation with Dr. Kushal Kharel for people who cannot easily reach a psychiatrist where they live.
+- [Online Psychiatrist in Albania, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/albania/)
+- [Online Psychiatrist in Australia, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/australia/)
+- [Online Psychiatrist in Bahrain, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/bahrain/)
+- [Online Psychiatrist in Bangladesh, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/bangladesh/)
+- [Online Psychiatrist in Belgium, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/belgium/)
+- [Online Psychiatrist in Brunei, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/brunei/)
+- [Online Psychiatrist in Bulgaria, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/bulgaria/)
+- [Online Psychiatrist in Canada, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/canada/)
+- [Online Psychiatrist in China, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/china/)
+- [Online Psychiatrist in Croatia, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/croatia/)
+- [Online Psychiatrist in Cyprus, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/cyprus/)
+- [Online Psychiatrist in Czechia, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/czechia/)
+- [Online Psychiatrist in Denmark, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/denmark/)
+- [Online Psychiatrist in Dubai and the UAE, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/uae/)
+- [Online Psychiatrist in Estonia, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/estonia/)
+- [Online Psychiatrist in Fiji, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/fiji/)
+- [Online Psychiatrist in Finland, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/finland/)
+- [Online Psychiatrist in France, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/france/)
+- [Online Psychiatrist in Germany, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/germany/)
+- [Online Psychiatrist in Greece, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/greece/)
+- [Online Psychiatrist in Hong Kong, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/hong-kong/)
+- [Online Psychiatrist in Hungary, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/hungary/)
+- [Online Psychiatrist in India, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/india/)
+- [Online Psychiatrist in Ireland, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/ireland/)
+- [Online Psychiatrist in Israel, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/israel/)
+- [Online Psychiatrist in Italy, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/italy/)
+- [Online Psychiatrist in Japan, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/japan/)
+- [Online Psychiatrist in Kuwait, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/kuwait/)
+- [Online Psychiatrist in Latvia, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/latvia/)
+- [Online Psychiatrist in Lithuania, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/lithuania/)
+- [Online Psychiatrist in Malaysia, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/malaysia/)
+- [Online Psychiatrist in Moldova, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/moldova/)
+- [Online Psychiatrist in Montenegro, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/montenegro/)
+- [Online Psychiatrist in Myanmar, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/myanmar/)
+- [Online Psychiatrist in the Netherlands, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/netherlands/)
+- [Online Psychiatrist in New Zealand, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/new-zealand/)
+- [Online Psychiatrist in North Macedonia, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/north-macedonia/)
+- [Online Psychiatrist in Norway, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/norway/)
+- [Online Psychiatrist in Oman, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/oman/)
+- [Online Psychiatrist in Poland, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/poland/)
+- [Online Psychiatrist in Portugal, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/portugal/)
+- [Online Psychiatrist in Qatar, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/qatar/)
+- [Online Psychiatrist in Romania, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/romania/)
+- [Online Psychiatrist in Saudi Arabia, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/saudi-arabia/)
+- [Online Psychiatrist in Singapore, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/singapore/)
+- [Online Psychiatrist in Slovakia, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/slovakia/)
+- [Online Psychiatrist in Slovenia, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/slovenia/)
+- [Online Psychiatrist in South Korea, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/south-korea/)
+- [Online Psychiatrist in Spain, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/spain/)
+- [Online Psychiatrist in Sri Lanka, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/sri-lanka/)
+- [Online Psychiatrist in Sweden, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/sweden/)
+- [Online Psychiatrist in Thailand, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/thailand/)
+- [Online Psychiatrist in the United Kingdom, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/united-kingdom/)
+- [Online Psychiatrist in the USA, in English](https://kathmandumentalhealth.com.np/online-psychiatrist-english/usa/)
