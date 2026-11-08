@@ -24,8 +24,8 @@
 
 ## Doctors
 
-- [Dr. Kushal Kharel](https://kathmandumentalhealth.com.np/doctors/dr-kushal-kharel/): Consultant Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Jalalabad Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 27199 · Nepal Medical Council; Languages: Nepali, English, Hindi, Bangla; Online: Video consultation and therapy
-- [Dr. Bhishma K.C.](https://kathmandumentalhealth.com.np/doctors/dr-bhishma-kc/): Consultant Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Nepal Medical College; NMC No. 21985; languages: Nepali, English, Hindi.
+- [Dr. Kushal Kharel](https://kathmandumentalhealth.com.np/doctors/dr-kushal-kharel/): Consultant Psychiatrist; MD Psychiatry: KIST Medical College; MBBS: Jalalabad Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 27199 · Nepal Medical Council; Languages: Nepali, English, Hindi, Bangla; Online: Video consultation and therapy
+- [Dr. Bhishma K.C.](https://kathmandumentalhealth.com.np/doctors/dr-bhishma-kc/): Consultant Psychiatrist; MD Psychiatry: KIST Medical College; MBBS: Nepal Medical College; NMC No. 21985; languages: Nepali, English, Hindi.
 
 ## Services
 
@@ -143,7 +143,6 @@
 - [Who is the best psychiatrist in Kathmandu?](https://kathmandumentalhealth.com.np/#faq-best-psychiatrist-in-kathmandu)
 - [Who is Dr. Kushal Kharel, and what is Dr. Kharel's background?](https://kathmandumentalhealth.com.np/#faq-dr-kushal-kharel-background)
 - [Who is a good psychiatrist in Kathmandu for anxiety or depression?](https://kathmandumentalhealth.com.np/#faq-psychiatrist-for-anxiety-or-depression)
-- [What is neuropsychiatry, and does your doctor have this training?](https://kathmandumentalhealth.com.np/#faq-what-is-neuropsychiatry)
 - [What does a psychiatrist do in Nepal?](https://kathmandumentalhealth.com.np/#faq-what-does-a-psychiatrist-do)
 - [Is your doctor a psychiatrist or a general physician?](https://kathmandumentalhealth.com.np/#faq-psychiatrist-or-general-physician)
 - [Can I ask to see a female or male doctor or counsellor?](https://kathmandumentalhealth.com.np/#faq-doctor-gender-preference)
@@ -287,7 +286,7 @@ Partner organization: the clinic team is involved with Pillar Bridge Solutions L
 - [विदेशमा काम गर्ने नेपाली महिला कामदारको मानसिक स्वास्थ्य र सुरक्षा](https://kathmandumentalhealth.com.np/ne/blog/videsh-ma-nepali-mahila-gharelu-kamdar-mansik-swasthya/): विदेशमा घरेलु वा अन्य काम गर्ने नेपाली महिलाको एक्लोपन, तनाव, दुर्व्यवहार र मानसिक स्वास्थ्य; सुरक्षित रूपमा सहयोग कसरी लिने र नेपालीमा अनलाइन परामर्श।
 - [विदेशमा नेपाली कामदारमा रक्सी, जुवा र लत: कसरी रोक्ने र सहयोग लिने](https://kathmandumentalhealth.com.np/ne/blog/videsh-ma-rakshi-jwa-lat-nepali-kamdar/): विदेशमा काम गर्दा रक्सी, जुवा, गाँजा वा अनलाइन बेटिङको लत बढ्यो? लत कसरी चिन्ने, कानूनी जोखिम, विथड्रल र नेपालीमा अनलाइन उपचार सहयोगबारे जानकारी।
 - [काठमाडौंमा राम्रो मनोचिकित्सक कसरी छान्ने? ८ वटा जाँच गर्नुपर्ने कुरा](https://kathmandumentalhealth.com.np/ne/blog/kathmandu-ma-ramro-manochikitsak-kasari-chhanne/): काठमाडौंमा मनोचिकित्सक कसरी छान्ने? NMC दर्ता, MD योग्यता, भाषा, परामर्शको समय, गोपनीयता र उपचार योजना; ८ वटा सरल जाँचसूची।
-- [मेरो नजिकको मनोचिकित्सक: न्यूरोड र कलंकी, काठमाडौंमा क्लिनिक र अनलाइन विकल्प](https://kathmandumentalhealth.com.np/ne/blog/kathmandu-nazik-ko-manochikitsak-kalanki-newroad/): काठमाडौंमा नजिकको मनोचिकित्सक खोज्दै हुनुहुन्छ? न्यूरोड (पिपल्स प्लाजा) र कलंकी (भटभटेनी) क्लिनिक, कसरी बुक गर्ने र अनलाइन परामर्शको जानकारी।
+- [मेरो नजिकको मनोचिकित्सक: न्यूरोड र कलंकी, काठमाडौंमा क्लिनिक र अनलाइन विकल्प](https://kathmandumentalhealth.com.np/ne/blog/kathmandu-nazik-ko-manochikitsak-kalanki-newroad/): काठमाडौंमा नजिकको मनोचिकित्सक खोज्दै हुनुहुन्छ? न्यूरोड (देव प्लाजा) र कलंकी (भटभटेनी) क्लिनिक, कसरी बुक गर्ने र अनलाइन परामर्शको जानकारी।
 - [काठमाडौं बाहिरबाट अनलाइन मनोचिकित्सक: पोखरा, विराटनगर, चितवन, बुटवल, धनगढी र पहाड](https://kathmandumentalhealth.com.np/ne/blog/pokhara-biratnagar-chitwan-ghar-baata-online-manochikitsak/): काठमाडौं आउन नसक्ने पोखरा, विराटनगर, चितवन, बुटवल, धनगढी वा पहाडी जिल्लाका मानिसका लागि घरबाटै नेपालीमा अनलाइन मनोचिकित्सक परामर्श कसरी लिने?
 - [मानसिक अस्पताल कि क्लिनिक? काठमाडौंमा कहाँ जाने भन्ने निर्णय कसरी गर्ने](https://kathmandumentalhealth.com.np/ne/blog/mansik-aspatal-ki-clinic-kathmandu-kun-ramro/): मानसिक अस्पताल र मनोचिकित्सा क्लिनिकमा के फरक छ? कसलाई भर्ना चाहिन्छ, कसलाई ओपीडी/क्लिनिक पर्याप्त हुन्छ? काठमाडौंमा निर्णय गर्न सरल गाइड।
 - [मनोचिकित्सकलाई पहिलो पटक भेट्न डर वा लाज लाग्छ? "पागल" भनिन्छ कि भन्ने चिन्ता](https://kathmandumentalhealth.com.np/ne/blog/manochikitsak-sanga-pahilo-bhet-ma-dar-lajja-kalank/): मनोचिकित्सकलाई भेट्दा "पागल" ठान्लान् कि भन्ने डर सामान्य हो। पहिलो भेटमा के हुन्छ, गोपनीयता, कलंक र लाजलाई कसरी सम्हाल्ने भन्ने सरल जानकारी।
@@ -320,7 +319,7 @@ Partner organization: the clinic team is involved with Pillar Bridge Solutions L
 ## नेपाली पृष्ठहरू (Nepali pages)
 
 - [हाम्रा चिकित्सक](https://kathmandumentalhealth.com.np/ne/doctors/): कन्सल्ट्यान्ट मनोचिकित्सक डा. कुशल खरेल र डा. भीष्म के.सी.
-- [डा. कुशल खरेल](https://kathmandumentalhealth.com.np/ne/doctors/dr-kushal-kharel/): योग्यता, तालिम (CBT लेभल २), सदस्यता, अनुभव, NMC नं. 27199
+- [डा. कुशल खरेल](https://kathmandumentalhealth.com.np/ne/doctors/dr-kushal-kharel/): योग्यता, तालिम (TEAM-CBT लेभल २), सदस्यता, अनुभव, NMC नं. 27199
 - [डा. भीष्म के.सी.](https://kathmandumentalhealth.com.np/ne/doctors/dr-bhishma-kc/): NMC नं. 21985
 - [परामर्श शुल्क](https://kathmandumentalhealth.com.np/ne/fees/): रु. १,५००, रु. २,००० र रु. २,५००
 - [विदेशमा बस्ने नेपालीका लागि](https://kathmandumentalhealth.com.np/ne/nepalis-abroad/): देश अनुसार अनलाइन परामर्श
